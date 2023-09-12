@@ -1,6 +1,10 @@
-# GeoInsight
+# GeoInsight: Revolutionizing Disaster Recovery and Environmental Monitoring
 
-In response to the groundbreaking release of NASA's open-source geospatial artificial intelligence (AI) foundation model, the HLS Geospatial Foundation Model (HLS Geospatial FM), project "GeoInsight" is on a mission to harness the full potential of this remarkable AI innovation. GeoInsight leverages the HLS Geospatial FM to spearhead transformative Earth science applications, aiming to bring significant advancements to geospatial analytics. Our focus is on reimagining AI applications in understanding Earth's processes and addressing pressing global challenges, particularly in disaster recovery and environmental monitoring.
+**Participating in NASA Space Apps Challenge 2023**
+
+"GeoInsight" is an innovative project dedicated to leveraging the power of GeoAI to revolutionize disaster recovery operations and real-time environmental monitoring. By harnessing cutting-edge foundation models and advanced machine learning techniques, our project aims to tackle the challenges faced by researchers and disaster response teams in developing accurate and efficient AI models for geospatial analytics tasks. With a strong focus on enhancing the effectiveness and efficiency of critical operations, GeoInsight stands as a pioneering effort poised to drive transformative and diverse Earth science applications.
+
+Our participation in the NASA Space Apps Challenge 2023 fuels our commitment to harnessing the groundbreaking HLS Geospatial Foundation Model (HLS Geospatial FM). This open-source geospatial artificial intelligence (AI) model, released by NASA, serves as the cornerstone of GeoInsight's mission to push the boundaries of geospatial analytics. We are driven to reimagine the potential of AI in comprehending Earth's intricate processes and addressing pressing global challenges, with a particular emphasis on disaster recovery and environmental monitoring.
 
 ## Project Objectives
 
